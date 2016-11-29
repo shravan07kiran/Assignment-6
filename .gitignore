@@ -1,0 +1,8 @@
+node_modules/
+.DS_Store
+.Rhistory
+Commentline.js
+mongodb/diagnostic.data/metrics.2016-10-24T02-01-30Z-00000
+mongodb/diagnostic.data/metrics.2016-10-27T05-36-21Z-00000
+mongodb/journal/
+npm-debug.log

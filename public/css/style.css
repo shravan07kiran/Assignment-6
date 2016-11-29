@@ -1,0 +1,111 @@
+
+#userFormArea{
+margin-top: 32px;
+}
+
+
+
+.first {
+    background-image: url(/public/images/bg.jpg);
+    background-size: 100%;
+    align:center ;
+    height: 100%;
+    color: #FFF;
+    padding: 5em;
+    padding-bottom: 25em;
+}
+.orange {
+    background-color: #ff9800 ;
+}
+.black{
+
+  color: black;
+
+}
+input{
+  color: black;
+}
+
+h1 {
+    color: #fff;
+   
+}
+.brand-logo {
+    position: absolute;
+    color: #fff;
+    display: inline-block;
+    font-size: 2.1rem;
+    padding: 0;
+    white-space: nowrap;
+}
+.btn-large {
+    height: 54px;
+    line-height: 54px;
+}
+
+
+
+.center, .center-align {
+    text-align: center;
+}
+
+.submit.button{
+  color: black;
+}
+.sidebar-nav {
+    position: fixed;
+    width: 150px;
+    left: 0;
+    bottom: 0;
+    top: 50px;
+    border:2px;
+    background: #ccc;
+    padding: 10px;
+    z-index: 10;
+    -webkit-transition: all 500ms ease;
+    transition: all 500ms ease;
+
+}
+.img-responsive.col-md-4{
+  margin: 2px;
+  height: 190px;
+  width: 32.33333333%;
+}
+
+
+#mainArea{
+	display: none;
+  margin-left: 155px;
+  margin-bottom: 30px;
+}
+
+
+
+p{
+  float: center;
+  font-size: 24px; 
+}
+
+p.btn-info{
+  border:2px;
+}
+
+
+footer{
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+
+  
+}
+footer p{
+    color: #988d8d;
+  }
+
+.img_small
+ { width:250px;
+  height:170px;
+  margin: 20px; 
+}
